@@ -38,7 +38,7 @@ The project answers:
 
 ## 📈 Dashboard
 
-![Management KPI Dashboard](images/dashboard_overview.png)
+![Management KPI Dashboard](dashboard_overview.png)
 
 **Overview → Comparison → Detail → Business Interpretation**
 
@@ -98,7 +98,7 @@ Based on the available project data:
 
 ### Management Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview2.png)
 
 The dashboard combines:
 
