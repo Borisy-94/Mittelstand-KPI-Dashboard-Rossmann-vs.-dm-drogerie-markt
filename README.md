@@ -97,7 +97,7 @@ Based on the available project data:
 
 ### Management Overview
 
-![Dashboard Overview](dashboard_overview1.png)
+![Dashboard Overview](dashboard_overview 1.png)
 
 The dashboard combines:
 
