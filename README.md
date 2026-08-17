@@ -38,7 +38,7 @@ The project answers:
 
 ## 📈 Dashboard
 
-![Management KPI Dashboard](images/dashboard_overview.png)
+![Management KPI Dashboard](dashboard_overview.png)
 **Overview → Comparison → Detail → Business Interpretation**
 
 ---
