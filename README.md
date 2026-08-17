@@ -38,8 +38,7 @@ The project answers:
 
 ## 📈 Dashboard
 
-!Mittelstand-KPI-Dashboard-Rossmann-vs.-dm-drogerie-markt
-/Screenshot 2026-08-17 011930.png
+![Management KPI Dashboard](images/dashboard_overview.png)
 **Overview → Comparison → Detail → Business Interpretation**
 
 ---
